@@ -1,3 +1,5 @@
+> Historical repository: this genealogy moved to [andyjphu/allelo-experiments](https://github.com/andyjphu/allelo-experiments). Continue experiment work and PR review there. Original source history is preserved here.
+
 # Project Allelo
 
 Project Allelo is the repository for the research-influence experiment genealogy

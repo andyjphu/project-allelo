@@ -1,3 +1,5 @@
+> Historical repository: this genealogy moved to [andyjphu/allelo-experiments](https://github.com/andyjphu/allelo-experiments). Continue experiment work and PR review there. Original source history is preserved here.
+
 # Project Allelo: experiment names and lineage
 
 Effective 2026-11-06, by Andy's direct instruction. This name supersedes the
